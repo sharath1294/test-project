@@ -26,7 +26,7 @@ val spark=SparkSession.builder()
   empDF.show(false)
 
   val dept = Seq(("Finance",10),
-    ("Marketing",20),
+    ("Marketing",28),
     ("Sales",30),
     ("IT",40)
   )
