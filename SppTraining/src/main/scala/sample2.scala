@@ -1,0 +1,5 @@
+
+
+object sample2 {
+  
+}
